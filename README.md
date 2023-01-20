@@ -16,23 +16,23 @@ using peer-to-peer connection.
 
 1. Landing Page and Feeback Form
    - Seamless landing page with `Login with Google` button for user Login using Firebase Authentication 
-   - ![image](https://user-images.githubusercontent.com/59837325/125426848-39db8eeb-3e84-424d-869c-5b344ba55ba1.png)
+
  
    - One of the most important part of Agile is feedback, therefore the app has a feedback form in the footer 
-   - ![image](https://user-images.githubusercontent.com/59837325/125427701-f6aed5f3-ca93-4cf7-8480-40d42b87e46b.png)
+  
    
    - Witness by journey of these 4 weeks, through a concise timeline on my landing page
-   - ![image](https://user-images.githubusercontent.com/59837325/125429293-88f38afe-be80-47ff-b662-2169d87bc476.png)
+   
 
 2. Home page 
    - Has a signout button with app cards for different features and left division shows the rooms created by user as well as recent rooms visited
-   - ![image](https://user-images.githubusercontent.com/59837325/125428224-08fcf962-46af-470a-abae-aaa893d2e0c7.png)
+   
    
    - Toggle between dark-light using the moon icon, according to your preference
-   - ![image](https://user-images.githubusercontent.com/59837325/125429518-79515f76-8392-413a-9d19-53894db9ee95.png)
+   
    
    - Preview app cards for the application
-   - ![image](https://user-images.githubusercontent.com/59837325/125429888-3f23518a-e1c1-4500-a345-c5735cf1a8ff.png)
+ 
    
 3. Create Meeting
    - Create a room and invite people to join by copying the meeting code
