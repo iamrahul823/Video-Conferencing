@@ -1,5 +1,4 @@
-# Unite - Video Conferencing Web App
-## Submission for Microsoft Engage 2021 🌟
+#   Video Conferencing Web App
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Apurva-tech/unite?logo=github&style=for-the-badge)](https://github.com/Apurva-tech/) 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Apurva-tech/unite?style=for-the-badge&logo=git)](https://github.com/Apurva-tech/) 
