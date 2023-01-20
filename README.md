@@ -36,35 +36,26 @@ using peer-to-peer connection.
    
 3. Create Meeting
    - Create a room and invite people to join by copying the meeting code
-   - ![image](https://user-images.githubusercontent.com/59837325/125431140-7f0a92a8-ca4c-48b5-a91d-e53e69b12cb5.png)
 
    - Enter the common chat room that **persist the messages** using MongoDB 
-   - ![image](https://user-images.githubusercontent.com/59837325/125432255-d9e05582-5ae0-4b2f-8a07-dba9605a4b6d.png)
 
 4. Join Meeting
    - Enter the copied meeting ID in a form and join the room with your loved ones. 
-   - ![image](https://user-images.githubusercontent.com/59837325/125438181-fd819177-cb36-45bb-a7dd-8acfa5e21b66.png)
 
 5. Video calling & Persistent text chat
    - Chat with your friends, family and professional peers before, during and after the meeting. 
-   - ![image](https://user-images.githubusercontent.com/59837325/125486957-00bbd600-02ea-4f4f-b040-fc5d25db3251.png)
-   - ![image](https://user-images.githubusercontent.com/59837325/125486640-4ff2bdb8-b2ec-40f8-96c1-4dbdae007af3.png)
    
    - Screen Share options
-   - ![image](https://user-images.githubusercontent.com/59837325/125486807-1b603597-eb1d-4758-9cb2-d1d34f8462c4.png)
+
 
 6. Schedule Meeting 
    - Schedule Meeting with Google Calendar and invite people by just entering their email addresses and the app schedules a meet for you with a unique meeting ID as well!
-   - ![image](https://user-images.githubusercontent.com/59837325/125440936-e8d4141a-c7b8-4577-b5b0-4cba3d9e63ab.png)
 
    - Mail sent on scheduling a meeting
-   - ![image](https://user-images.githubusercontent.com/59837325/125441421-ee5199d3-3165-43c0-88d6-f9328477dfe2.png)
-   - ![image](https://user-images.githubusercontent.com/59837325/125441435-d1a53547-bb63-4b81-97e1-95d005298bac.png)
 
 7. AI powered posture bot
    - Using `Tf.js` posenet model, the bot notifies the user if they are sitting in a bad posture or too close to the screen. 
    - Keep your health in check and use this functionality with and without even being in a meeting
-   - ![image](https://user-images.githubusercontent.com/59837325/125442368-2b7b4202-9f07-4d9a-9122-69b221a03ef9.png)
 
 ## Tech stack
 
