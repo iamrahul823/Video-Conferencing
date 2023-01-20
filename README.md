@@ -85,8 +85,8 @@ using peer-to-peer connection.
 ## Instructions
 
 
-1. `git clone https://github.com/Apurva-tech/unite.git` 
-2. `cd ./unite`
+1. `git clone https://github.com/iamrahul823/Video-Conferencing.git` 
+2. `cd ./Video-Conferencing`
 3. Install node dependencies 
    - `npm install`
 4. Replace firebase API keys with your configurations
@@ -99,16 +99,13 @@ using peer-to-peer connection.
 
 ## Useful Links
 
-- [Deployed Website](https://unite-apurva.herokuapp.com/landing)
-- [Demo Video](https://youtu.be/OKKK1GOnlIU)
-- [Sprint Document](https://docs.google.com/presentation/d/11k8pLJPEV-XJwxIX4ysW9fKmHqFEZHcUWizFcFyVsns/edit?usp=sharing)
-- [Design Document](https://docs.google.com/document/d/1IJcEbbhsbQna-tgcnfV_9_RhXQi4SURlrl3-0HypArE/edit?usp=sharing)
+
 
 ## Need help?
 
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/apurva866/) 
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/rahul-596280226/) 
 
-[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mind.wrapper/) [![Twitter](https://img.shields.io/badge/Twitter-follow-blue.svg?logo=twitter&logoColor=white)](https://twitter.com/mindwrapper) [![Medium](https://img.shields.io/badge/Medium-follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@apurva866)
+[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mikuchettri/) [![Twitter](https://img.shields.io/badge/Twitter-follow-blue.svg?logo=twitter&logoColor=white)](https://twitter.com/Rahul99839761) [![Medium](https://img.shields.io/badge/Medium-follow-black.svg?logo=medium&logoColor=white)]()
 
 ---------
 
